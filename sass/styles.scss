@@ -8,7 +8,6 @@
 //====================================
 // Base imports
 //====================================
-@import "base/fonts";
 @import "base/vars";
 @import "base/mixins";
 @import "base/functions";
@@ -23,12 +22,7 @@
 //====================================
 // Seccions Landing
 //====================================
-// @import "components/...";
-
-//====================================
-// Others Seccions
-//====================================
-// @import "components/...";
+@import "components/main";
 
 //====================================
 // Components Errors

@@ -1,0 +1,11 @@
+//====================================
+// Media Queries
+//====================================
+@media screen and (min-width:768px) {
+    .blog {
+        max-height: 3000px;
+    }
+    .entry {
+        width: calc(33.3% - 1rem);
+    }
+}
